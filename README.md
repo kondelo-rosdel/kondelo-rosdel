@@ -7,7 +7,7 @@ Je partage ici mes **projets pratiques**, mes **configurations de lab**, et mes 
 
 ---
 
-## 🧩 Projets et Labs
+## 🧩 Projets et Labs (en cours)
 
 | Projet | Description | Technologies / Outils |
 |---------|--------------|-----------------------|
