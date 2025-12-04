@@ -11,7 +11,7 @@ Je partage ici mes **projets pratiques**, mes **configurations de lab**, et mes 
 
 | Projet | Description | Technologies / Outils |
 |---------|--------------|-----------------------|
-| 🏠 **HomeLab Cybersécurité** | Mise en place d’un environnement isolé pour la pratique offensive/défensive (Kali, Metasploitable2, ELK) | VirtualBox, Linux, PfSense |
+| 🏠 **[HomeLab Cybersécurité](https://github.com/kondelo-rosdel/homelab-cybersecurity)** | Mise en place d’un environnement isolé pour la pratique offensive/défensive (Kali, Metasploitable2, ELK) | VirtualBox, Linux, PfSense |
 | 🔎 **CTF & Challenges** | Résolution de challenges TryHackMe / HackTheBox (Analyse de logs, exploitation web, forensic, etc.) | Wireshark, Autopsy, John the Ripper |
 | 📊 **SIEM & Analyse de logs** | Installation et configuration d’un serveur ELK pour collecter et visualiser les journaux de sécurité | Elasticsearch, Logstash, Kibana |
 
