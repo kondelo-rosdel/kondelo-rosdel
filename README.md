@@ -35,7 +35,6 @@ Je partage ici mes **projets pratiques**, mes **configurations de lab**, et mes 
 **Défensif :** ELK Stack, Wireshark, Snort  
 **Scripting :** Python, Bash, PowerShell  
 **Virtualisation :** VirtualBox, Proxmox  
-**Collaboration :** Git, GitHub, Markdown, Notion  
 
 ---
 
