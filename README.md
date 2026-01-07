@@ -40,7 +40,7 @@ Je partage ici mes **projets pratiques**, mes **configurations de lab**, et mes 
 ---
 
 ## 📜 Certifications & Formations
-- 🎓 **Google Cybersecurity Professional Certificate** *(Coursera)*  
+- 🎓 **[Google Cybersecurity Professional Certificate](https://www.credly.com/badges/5109d21f-cfe3-4aed-a1e8-8c442843bc8a/linked_in_profile)** *(Coursera)*  
 - 💡 Formation continue en autodidacte (TryHackMe, HackTheBox)
 
 ---
