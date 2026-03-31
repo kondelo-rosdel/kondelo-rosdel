@@ -13,7 +13,7 @@ Je partage ici mes **projets pratiques**, mes **configurations de lab**, et mes 
 |---------|--------------|-----------------------|
 | 🏠 **[HomeLab Cybersécurité](https://github.com/kondelo-rosdel/homelab-cybersecurity)** | Mise en place d’un environnement isolé pour la pratique offensive/défensive (Kali, Metasploitable2, Wazuh) | VirtualBox, Linux, PfSense |
 | 🔎 **CTF & Challenges** | Résolution de challenges TryHackMe / HackTheBox (Analyse de logs, exploitation web, forensic, etc.) | Wireshark, Autopsy, John the Ripper |
-| 📊 **SIEM & Analyse de logs** | Installation et configuration d’un serveur Wazuh pour collecter et visualiser les journaux de sécurité | Wazuh |
+| 📊 **[Pi-hole + Tailscale — HomeLab](https://github.com/kondelo-rosdel/pihole-tailscale-rpi)** | Solution de DNS sécurisé avec blocage de publicités, accessible à distance via un VPN moderne. | Pi-Hole, Raspberry Pi, Tailscale, Routeur |
 
 ---
 
@@ -32,7 +32,7 @@ Je partage ici mes **projets pratiques**, mes **configurations de lab**, et mes 
 
 ### 🧰 Outils et technologies
 **Offensif :** Kali Linux, Metasploitable 2, Nmap, Hydra  
-**Défensif :** ELK Stack, Wireshark, Snort  
+**Défensif :** Wireshark, Snort  
 **Scripting :** Python, Bash, PowerShell  
 **Virtualisation :** VirtualBox, Proxmox  
 
