@@ -87,7 +87,7 @@ opportunites = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-tonemail@example.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kondelo.rosdel@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kondelo.rosdel@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kondelo.rosdel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tonprofil-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosdel-kondelo)
 </div>
 
