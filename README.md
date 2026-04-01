@@ -23,7 +23,7 @@ Je suis un profil **orienté cybersécurité**, avec une approche hands-on : je 
 
 Mon terrain de jeu : des projets home lab concrets qui mêlent **sécurité réseau, administration Linux et scripting**. Je crois qu'on apprend mieux en déployant une vraie infra qu'en lisant une documentation.
 
-> *"Security is not a product, but a process."* — Bruce Schneier
+> “La cybersécurité, c’est avant tout une question de curiosité, de méthode et de persévérance.”
 
 ---
 
