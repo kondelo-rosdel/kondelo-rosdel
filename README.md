@@ -58,18 +58,6 @@ Mon terrain de jeu : des projets home lab concrets qui mêlent **sécurité rés
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=kondelo-rosdel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondelo-rosdel&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
-
 ## 🎯 Ce que je recherche
 
 ```python
