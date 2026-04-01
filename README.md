@@ -1,72 +1,102 @@
-## Hi there 👋
+<div align="center">
 
-Technicien support informatique avec **plus de 10 ans d’expérience** en gestion d’incidents et assistance utilisateurs.  
-Actuellement en **reconversion vers la cybersécurité**, je suis **certifié Google Cybersecurity Professional Certificate** et je développe mes compétences d’**analyste cyber** à travers les **CTF**, les **certifications** et mes **projets de laboratoire (HomeLab)**.
+# 👾 `whoami`
 
-Je partage ici mes **projets pratiques**, mes **configurations de lab**, et mes **outils préférés** dans le but de démontrer mes capacités techniques et ma progression dans le domaine.
+```bash
+$ cat profile.txt
 
----
+  Passionné de cybersécurité & infrastructure
+  En quête d'opportunités Blue Team / Sécurité réseau / SOC
+  J'apprends en construisant des choses qui tournent vraiment.
+```
 
-## 🧩 Projets et Labs (en cours)
+[![Disponible](https://img.shields.io/badge/🟢%20Disponible-Ouvert%20aux%20opportunités-2ea44f?style=for-the-badge)](mailto:kondelo.rosdel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosdel-kondelo)
 
-| Projet | Description | Technologies / Outils |
-|---------|--------------|-----------------------|
-| 🏠 **[HomeLab Cybersécurité](https://github.com/kondelo-rosdel/homelab-cybersecurity)** | Mise en place d’un environnement isolé pour la pratique offensive/défensive (Kali, Metasploitable2, Wazuh) | VirtualBox, Linux, PfSense |
-| 🔎 **CTF & Challenges** | Résolution de challenges TryHackMe / HackTheBox (Analyse de logs, exploitation web, forensic, etc.) | Wireshark, Autopsy, John the Ripper |
-| 📊 **[Pi-hole + Tailscale — HomeLab](https://github.com/kondelo-rosdel/pihole-tailscale-rpi)** | Solution de DNS sécurisé avec blocage de publicités, accessible à distance via un VPN moderne. | Pi-Hole, Raspberry Pi, Tailscale, Routeur |
-
----
-
-## 🧠 Compétences principales
-
-### 🔐 Cybersécurité
-- Analyse de vulnérabilités & pentest de base  
-- Gestion des incidents & réponse aux alertes  
-- Analyse réseau, forensic & monitoring  
-- Sécurisation de systèmes Linux et Windows
-
-### 🖥️ Systèmes & Réseaux
-- Administration Linux (Debian, Ubuntu, Kali)  
-- Administration Windows (Active Directory, GPO, PowerShell)  
-- Configuration réseau (DNS, DHCP, NAT, VLAN, VPN)
-
-### 🧰 Outils et technologies
-**Offensif :** Kali Linux, Metasploitable 2, Nmap, Hydra  
-**Défensif :** Wireshark, Snort  
-**Scripting :** Python, Bash, PowerShell  
-**Virtualisation :** VirtualBox, Proxmox  
+</div>
 
 ---
 
-## 📜 Certifications & Formations
-- 🎓 **[Google Cybersecurity Professional Certificate](https://www.credly.com/badges/5109d21f-cfe3-4aed-a1e8-8c442843bc8a/linked_in_profile)** *(Coursera)*  
-- 💡 Formation continue en autodidacte (TryHackMe, HackTheBox)
+## 🧠 À propos
+
+Je suis un profil **orienté cybersécurité**, avec une approche hands-on : je construis, je casse, je comprends.
+
+Mon terrain de jeu : des projets home lab concrets qui mêlent **sécurité réseau, administration Linux et scripting**. Je crois qu'on apprend mieux en déployant une vraie infra qu'en lisant une documentation.
+
+> *"Security is not a product, but a process."* — Bruce Schneier
 
 ---
 
-## 📬 Let's connect
+## 🔬 Projets
 
-- **📧 [Email](mailto:kondelo.rosdel@gmail.com)** 
-- **💼 [LinkedIn](https://www.linkedin.com/in/rosdel-kondelo)**
-- **🐙 [Medium](https://medium.com/@kondelo.rosdel)**
----
+### 🛡️ Pi-hole + Tailscale — Home Lab DNS & VPN
+> Infrastructure réseau sécurisée sur Raspberry Pi Zero 2 W
 
-## 🚀 Objectif professionnel
+- Déploiement d'un **DNS sinkhole** (Pi-hole) : blocage de ~30% du trafic DNS (publicités, trackers, domaines malveillants)
+- Mise en place d'un **VPN mesh chiffré** (Tailscale / WireGuard) pour accès distant sécurisé
+- Configuration réseau : IP statique, intégration DHCP routeur, filtrage DNS étendu via Firebog
 
-Je suis **ouvert à des opportunités** dans le domaine de la **cybersécurité**, notamment :
-- Analyste SOC / Cyber Analyst  
-- Pentester Junior  
-- Ingénieur cybersécurité débutant  
-- Technicien sécurité / IT sécurité
+**Stack :** `Raspberry Pi OS` `Pi-hole` `Tailscale` `WireGuard` `Linux` `Bash`
 
-Mon objectif : **protéger, analyser et renforcer la sécurité des systèmes et données** tout en continuant à apprendre et à contribuer à la communauté cyber.
+📂 [Voir le projet →](https://github.com/kondelo-rosdel/pihole-tailscale-rpi)
 
 ---
 
-## 💡 Citation qui m’inspire
+## ⚙️ Compétences
 
-> “La cybersécurité, c’est avant tout une question de curiosité, de méthode et de persévérance.”
+<div align="center">
+
+| Domaine | Outils & Technologies |
+|---|---|
+| 🔐 Sécurité réseau | Pi-hole · Tailscale · WireGuard · DNS filtering |
+| 🐧 Systèmes Linux | Raspberry Pi OS · Debian · Bash · SSH · systemd |
+| 🐍 Scripting | Python · Bash / Shell |
+| 🌐 Réseaux | TCP/IP · DNS · DHCP · VLAN (notions) |
+| 🛠️ Outils | Git · GitHub · nmap · nslookup · htop |
+
+</div>
 
 ---
 
-*Merci de votre visite sur mon portfolio ! N’hésitez pas à explorer mes projets et à me contacter pour échanger ou collaborer.*  
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=kondelo-rosdel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondelo-rosdel&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
+---
+
+## 🎯 Ce que je recherche
+
+```python
+opportunites = {
+    "domaine":   ["Blue Team", "SOC Analyst", "Sécurité réseau", "Admin Sys orienté sécu"],
+    "contrat":   ["CDD", "CDI"],
+    "localité":  ["Normandie", "Île-de-France", "Remote"],
+    "atout":     "Profil autodidacte avec projets concrets déployés en production",
+}
+```
+
+---
+
+## 📫 Me contacter
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-tonemail@example.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kondelo.rosdel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tonprofil-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosdel-kondelo)
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kondelo-rosdel.kondelo-rosdel)
+
+*Dernière mise à jour : 2026*
+
+</div>
