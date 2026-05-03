@@ -29,6 +29,22 @@ Mon terrain de jeu : des projets home lab concrets qui mêlent **sécurité rés
 
 ## 🔬 Projets
 
+---
+ 
+### 🔍 Lab IDS — Kali + Snort + Ubuntu Server (UTM)
+> Détection d'intrusion SSH en temps réel · nmap · Snort · UFW · Fail2ban
+ 
+- Déploiement et configuration de **Snort IDS** sur Ubuntu Server avec règles de détection personnalisées
+- Simulation d'attaque **brute force SSH** depuis Kali (Hydra) → génération d'alertes Snort en temps réel
+- Reconnaissance réseau avec **nmap** (`-sV -sC`) → corrélation alertes IDS / logs `auth.log`
+- Défense en profondeur : **UFW** (blocage réseau) + **Snort** (détection) + **Fail2ban** (bannissement auto)
+  
+**Stack :** `UTM` `Kali Linux` `Ubuntu Server` `Snort` `nmap` `Hydra` `UFW` `Fail2ban` `Bash`
+ 
+📂 [Voir le projet →](https://github.com/kondelo-rosdel/Lab-D-tection-d-Intrusion-Kali-Linux-Snort-IDS-Ubuntu-Server)
+ 
+---
+
 ### 🛡️ Pi-hole + Tailscale — Home Lab DNS & VPN
 > Infrastructure réseau sécurisée sur Raspberry Pi Zero 2 W
 
@@ -48,11 +64,14 @@ Mon terrain de jeu : des projets home lab concrets qui mêlent **sécurité rés
 
 | Domaine | Outils & Technologies |
 |---|---|
+| 🔍 Détection d'intrusion | Snort · Règles IDS · Corrélation logs · auth.log |
+| 🔴 Offensif | nmap · Hydra · Kali Linux |
+| 🔵 Défensif | UFW · Snort · Fail2ban · Pi-hole · Defense in depth |
 | 🔐 Sécurité réseau | Pi-hole · Tailscale · WireGuard · DNS filtering |
 | 🐧 Systèmes Linux | Raspberry Pi OS · Debian · Bash · SSH · systemd |
 | 🐍 Scripting | Python · Bash / Shell |
 | 🌐 Réseaux | TCP/IP · DNS · DHCP · VLAN (notions) |
-| 🛠️ Outils | Git · GitHub · nmap · nslookup · htop |
+| 🛠️ Outils | Git · GitHub |
 
 </div>
 
